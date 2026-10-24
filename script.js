@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "https://www.google.com/maps/search/?api=1&query=Sri+Balamurugan+Mahal+Palani+Tamil+Nadu",
 
     // International format, digits only.
-    groomWhatsAppNumber: "918754035629"
+    groomWhatsAppNumber: "918122594959"
   };
 
 
